@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My third Blog post
 author: wk Hung
 description: "I found some challenge while deploying my blod website QQ"
